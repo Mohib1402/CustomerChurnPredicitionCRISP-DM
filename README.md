@@ -16,7 +16,7 @@ A detailed walkthrough of the project, including methodology and findings, can b
 
 ## Chatgpt Prompt & Responses
 
-The complete project documentation, including all code, models, and analysis, is available in the [Chatgpt Prompt & Responses](https://medium.com/@uu7470911/predicting-customer-churn-a-comprehensive-guide-using-crisp-dm-methodology-14264c42b377).
+The complete project documentation, including all code, models, and analysis, is available in the [Chatgpt Prompt & Responses](https://github.com/Mohib1402/CustomerChurnPredicitionCRISP-DM/blob/main/Use%20AI%20for%20Data%20Science.docx).
 
 ## Chat History
 
