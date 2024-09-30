@@ -14,6 +14,14 @@ The dataset used for this project can be found here: [Telco Customer Churn Datas
 
 A detailed walkthrough of the project, including methodology and findings, can be found in the following Medium article: [Customer Churn Prediction](https://medium.com/@uu7470911/predicting-customer-churn-a-comprehensive-guide-using-crisp-dm-methodology-14264c42b377).
 
+## Chatgpt Prompt & Responses
+
+The complete project documentation, including all code, models, and analysis, is available in the [Chatgpt Prompt & Responses](https://medium.com/@uu7470911/predicting-customer-churn-a-comprehensive-guide-using-crisp-dm-methodology-14264c42b377).
+
+## Chat History
+
+For a full record of the discussions and steps taken to complete this project, you can access the chat history [here](https://chatgpt.com/share/66fa2675-3f00-8009-afa0-bafc75df6801).
+
 ## CRISP-DM Steps
 
 This analysis follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework and includes the following steps:
